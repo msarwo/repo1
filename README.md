@@ -1,4 +1,6 @@
 repo1
 =====
 
-my first github repository
+Name: Michelle Sarwo
+ | PID: A12496484
+ | Course: CSE 15L
